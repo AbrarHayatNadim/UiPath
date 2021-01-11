@@ -1,0 +1,4 @@
+Name	Dept	Age
+Abrar	CSE	26
+Hayat	EEE	27
+Nadim	IPE	25
